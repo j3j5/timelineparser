@@ -1,0 +1,22 @@
+{
+    "name": "j3j5/timelineparser",
+    "description": "A parser for Twitter's timeline to get enough JSON info about the tweets from the HTML returned by their hidden API.",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Julio Foulquié",
+            "email": "jfoulquie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+		"curl/curl": "*",
+		"mgargano/simplehtmldom": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "j3j5": "src/"
+        }
+    }
+}
