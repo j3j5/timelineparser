@@ -1,0 +1,88 @@
+{
+	"created_at": "Sat Jan 31 16:36:08 +0000 2015",
+	"id": 561563594769199100,
+	"id_str": "561563594769199106",
+	"text": "Acaba de pasar un SS. Cuando eso ocurre, hay que dejar lo que estés haciendo, ponerse firmes y quitarse el gorro. ¡Y todo muy rápido!",
+	"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 2343549222,
+		"id_str": "2343549222",
+		"name": "Antonio Hernández",
+		"screen_name": "deportado4443",
+		"location": "Vivo en 1941-45",
+		"profile_location": null,
+		"description": "24/08/1907 en Molina de Segura (Murcia). Carabinero durante la guerra. Exiliado en Francia y deportado a Mauthausen por los nazis. Esta es mi historia real",
+		"url": "http://t.co/RitYhQHXCp",
+		"entities": {
+			"url": {
+				"urls": [
+				{
+					"url": "http://t.co/RitYhQHXCp",
+					"expanded_url": "http://www.deportados.es",
+					"display_url": "deportados.es",
+					"indices": [
+					0,
+					22
+					]
+				}
+				]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 40079,
+		"friends_count": 2,
+		"listed_count": 207,
+		"created_at": "Fri Feb 14 13:04:56 +0000 2014",
+		"favourites_count": 0,
+		"utc_offset": 3600,
+		"time_zone": "Amsterdam",
+		"geo_enabled": false,
+		"verified": false,
+		"statuses_count": 302,
+		"lang": "es",
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": true,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/543426259288481792/wqPei9TA_normal.jpeg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/543426259288481792/wqPei9TA_normal.jpeg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343549222/1418398587",
+		"profile_link_color": "0084B4",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": true,
+		"follow_request_sent": false,
+		"notifications": false
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweet_count": 147,
+	"favorite_count": 179,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [],
+		"urls": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"lang": "es"
+}
